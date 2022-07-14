@@ -12,9 +12,15 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
-<a href="https://www.linkedin.com/in/joão-pedro-braga-39b741109" target="blank"> 
+<a href="jpbraga.contato@gmail.com" target="blank"> 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
+
+<a href="https://medium.com/@jpbraga" target="blank"> 
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
+</a>
+
+
 
 ##
 
